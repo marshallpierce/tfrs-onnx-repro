@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 tensorflow-recommenders = "==0.3.2"
 tensorflow-datasets = "==4.2.0"
-scann = "==1.2.1"
 tf2onnx = "==1.8.1"
 
 [dev-packages]
